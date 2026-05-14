@@ -1,6 +1,6 @@
 # House Price Prediction using Linear Regression
 
-This machine learning project predicts real estate prices based on key housing characteristics. It has been developed and submitted as part of my internship requirements.
+This machine learning project predicts real estate prices based on key housing characteristics.
 
 ##  Project Overview
 The goal of this project is to build a predictive model that estimates housing market values. It utilizes a **Linear Regression** algorithm to analyze the mathematical relationship between the input features and the final house price.
