@@ -16,4 +16,3 @@ The goal of this project is to build a predictive model that estimates housing m
 *   **Pandas & NumPy:** For data manipulation and processing.
 
 ---
-*Submitted for Internship Evaluation*
